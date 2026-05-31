@@ -111,9 +111,9 @@ JWT авторизація генерується вбудованими PHP-ф�
 ```text
 htdocs/
 ├── index.html              ← React SPA entry point
-├── .htaccess               ← Rewrite rules для React Router (щоб не було помилок 404)
+├── .htaccess               ← Rewrite rules для React Router
 ├── api.php                 ← PHP REST API
 ├── assets/
-│   ├── index-***.js        ← Збірка React (JavaScript логіка)
-│   └── index-***.css       ← Збірка стилів (Custom CSS)
+│   ├── index-***.js        ← Збірка React 
+│   └── index-***.css       ← Збірка стилів 
 ```
